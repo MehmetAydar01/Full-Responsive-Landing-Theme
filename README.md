@@ -2,4 +2,4 @@
 
 * **Jquery, lightbox.js, popper.js, scrollreveal.js used**
 
-* **[Live Demo](https://mehmetaydar01.github.io/Full-Responsive-Website/)**
+* **[Live Demo](https://mehmetaydar01.github.io/Full-Responsive-Landing-Theme/)**
