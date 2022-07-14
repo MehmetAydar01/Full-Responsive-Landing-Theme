@@ -1,5 +1,5 @@
-# Full Responsive Website
+# Full Responsive Landing Theme
 
-* **Jquery and wow.js used**
+* **Jquery, lightbox.js, popper.js, scrollreveal.js used**
 
 * **[Live Demo](https://mehmetaydar01.github.io/Full-Responsive-Website/)**
